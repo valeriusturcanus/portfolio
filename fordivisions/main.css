@@ -1,0 +1,76 @@
+/*COLORS*/
+/*TEAL  #004c40,#00796b,#48a999
+*/
+/*.container { background-color: #004c40}*/
+
+
+body {
+  position: relative;
+}
+#texColor {
+    color: #000;
+    font-weight: bold;
+}
+.navbar-default {
+    background-color: #004c40;
+    opacity: 0.6;
+    /*width: 95%;*/
+}
+.text {
+    color: rgb(100,100,200);
+    font-size: 3em;
+
+}
+.red {
+    background-color: rgb(226, 110, 74);
+    background-image: url(livDocks3.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.transparent {
+    background-size: cover;
+    background-color: rgba(0,50,45,0.5)
+}
+.image-margin {
+    height: 185px;
+}
+img {
+    margin:auto;
+    opacity: 0.7;
+}
+.margin-auto {
+    /*margin: auto;*/
+    text-align: center;
+    color: #ccc;
+    /*font-style: italic;*/
+    font-family: 'Bree Serif', serif;
+}
+.projects-text{
+    text-align: center;
+    font-style: italic;
+    color: rgb(226,110,74)
+}
+.projects {
+    background-color: #48a999;
+
+}
+.heigher-line {
+    line-height: 1.5em;
+    font-size: 1.5em;
+}
+.min-height {
+    min-height: 2em;
+}
+.middle-color {
+    background-color: #00796b;
+    min-height: 2em
+}
+#contact {
+    background-color: #00796b;
+}
+.footer-text {
+    line-height: 2em;
+}
